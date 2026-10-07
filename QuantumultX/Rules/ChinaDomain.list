@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 869
+# 规则统计: 872
 
 HOST,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe,ChinaDomain
 HOST,acg.tv,ChinaDomain
@@ -22,6 +22,7 @@ HOST,media.cdn.queniuqe.com,ChinaDomain
 HOST,ocsp.globalsign.com,ChinaDomain
 HOST,ocsp2.globalsign.com,ChinaDomain
 HOST,res.viayoo.com,ChinaDomain
+HOST,time.xtracloud.net,ChinaDomain
 HOST,url.cn,ChinaDomain
 HOST,viayoo.com,ChinaDomain
 HOST,www.intel.cn,ChinaDomain
@@ -667,6 +668,8 @@ HOST-SUFFIX,qzone.com,ChinaDomain
 HOST-SUFFIX,realme.com,ChinaDomain
 HOST-SUFFIX,realmebbs.com,ChinaDomain
 HOST-SUFFIX,realmemobile.com,ChinaDomain
+HOST-SUFFIX,rednotecdn.com,ChinaDomain
+HOST-SUFFIX,rnote.com,ChinaDomain
 HOST-SUFFIX,roblox.cn,ChinaDomain
 HOST-SUFFIX,robloxdev.cn,ChinaDomain
 HOST-SUFFIX,ronghub.com,ChinaDomain
@@ -866,7 +869,7 @@ HOST-SUFFIX,zui.com,ChinaDomain
 HOST-SUFFIX,zuimeitianqi.com,ChinaDomain
 HOST-SUFFIX,zuoyebang.com,ChinaDomain
 HOST-SUFFIX,zybang.com,ChinaDomain
-HOST-WILDCARD,*.qhimgs?.com,ChinaDomain
+HOST-WILDCARD,qhimgs?.com,ChinaDomain
 USER-AGENT,%E4%BC%98%E9%85%B7*,ChinaDomain
 USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*,ChinaDomain
 USER-AGENT,TeslaMap,ChinaDomain

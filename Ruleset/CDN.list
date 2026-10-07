@@ -143,6 +143,7 @@ DOMAIN,assets.bravenet.com
 DOMAIN,assets.brevo.com
 DOMAIN,assets.buttondown.email
 DOMAIN,assets.bwbx.io
+DOMAIN,assets.byokey.io
 DOMAIN,assets.byteplus.com
 DOMAIN,assets.calendly.com
 DOMAIN,assets.canny.io
@@ -240,7 +241,6 @@ DOMAIN,assets.nintendo.com
 DOMAIN,assets.northflank.com
 DOMAIN,assets.nxtrace.org
 DOMAIN,assets.nypost.com
-DOMAIN,assets.onestore.ms
 DOMAIN,assets.ontrack.com
 DOMAIN,assets.openalternative.co
 DOMAIN,assets.openlogi.org
@@ -257,6 +257,7 @@ DOMAIN,assets.polarbyte.com
 DOMAIN,assets.poool.fr
 DOMAIN,assets.porndig.com
 DOMAIN,assets.positional-bucket.com
+DOMAIN,assets.production.linktr.ee
 DOMAIN,assets.prowritingaid.com
 DOMAIN,assets.pscp.tv
 DOMAIN,assets.queue-it.net
@@ -274,6 +275,7 @@ DOMAIN,assets.science.nasa.gov
 DOMAIN,assets.sendinblue.com
 DOMAIN,assets.shazam.com
 DOMAIN,assets.shots.so
+DOMAIN,assets.singaporeair.com
 DOMAIN,assets.slater.app
 DOMAIN,assets.sololearn.com
 DOMAIN,assets.speedvitals.com
@@ -281,7 +283,6 @@ DOMAIN,assets.squarespace.com
 DOMAIN,assets.squarewebsites.org
 DOMAIN,assets.st-note.com
 DOMAIN,assets.stash.com
-DOMAIN,assets.static-upwork.com
 DOMAIN,assets.stickpng.com
 DOMAIN,assets.stigg.io
 DOMAIN,assets.streamlinehq.com
@@ -607,6 +608,7 @@ DOMAIN,cdn.camweara.com
 DOMAIN,cdn.candid.org
 DOMAIN,cdn.candu.ai
 DOMAIN,cdn.candy.ai
+DOMAIN,cdn.candycode.com
 DOMAIN,cdn.casestudies.svc.ui.com
 DOMAIN,cdn.casetify.com
 DOMAIN,cdn.catch.dmm.co.jp
@@ -626,7 +628,6 @@ DOMAIN,cdn.cms-twdigitalassets.com
 DOMAIN,cdn.cnn.com
 DOMAIN,cdn.cnx-software.com
 DOMAIN,cdn.codeblackbelt.com
-DOMAIN,cdn.commandbar.com
 DOMAIN,cdn.comparitech.com
 DOMAIN,cdn.concert.io
 DOMAIN,cdn.configcat.com
@@ -683,6 +684,7 @@ DOMAIN,cdn.eu.contentful.com
 DOMAIN,cdn.european-alternatives.eu
 DOMAIN,cdn.evbstatic.com
 DOMAIN,cdn.evgnet.com
+DOMAIN,cdn.eye-able.com
 DOMAIN,cdn.f5.com
 DOMAIN,cdn.faire.com
 DOMAIN,cdn.fastcomments.com
@@ -708,6 +710,7 @@ DOMAIN,cdn.gdl.gg
 DOMAIN,cdn.geekzone.co.nz
 DOMAIN,cdn.gethypervisual.com
 DOMAIN,cdn.getkoala.com
+DOMAIN,cdn.getmerlin.in
 DOMAIN,cdn.gettr.com
 DOMAIN,cdn.ghostery.com
 DOMAIN,cdn.giftcardpro.app
@@ -740,7 +743,9 @@ DOMAIN,cdn.id.life
 DOMAIN,cdn.imageengine.io
 DOMAIN,cdn.imago-images.com
 DOMAIN,cdn.img.ly
+DOMAIN,cdn.imgchest.com
 DOMAIN,cdn.infoq.com
+DOMAIN,cdn.infrawire.net
 DOMAIN,cdn.insightmediagroup.io
 DOMAIN,cdn.inviter.co
 DOMAIN,cdn.ionos.de
@@ -770,6 +775,7 @@ DOMAIN,cdn.kobo.com
 DOMAIN,cdn.langshop.app
 DOMAIN,cdn.leandata.com
 DOMAIN,cdn.lemonsqueezy.com
+DOMAIN,cdn.leonardo.ai
 DOMAIN,cdn.lgrckt-in.com
 DOMAIN,cdn.libravatar.org
 DOMAIN,cdn.lihkg.com
@@ -812,7 +818,6 @@ DOMAIN,cdn.nerdschalk.com
 DOMAIN,cdn.networklessons.com
 DOMAIN,cdn.neverbounce.com
 DOMAIN,cdn.nfcube.com
-DOMAIN,cdn.nodeimage.com
 DOMAIN,cdn.nolt.io
 DOMAIN,cdn.northropgrumman.com
 DOMAIN,cdn.now.gg
@@ -933,6 +938,7 @@ DOMAIN,cdn.super.com
 DOMAIN,cdn.svgator.com
 DOMAIN,cdn.svgporn.com
 DOMAIN,cdn.syftdata.com
+DOMAIN,cdn.system1.com
 DOMAIN,cdn.tailwindcss.com
 DOMAIN,cdn.tatlerasia.com
 DOMAIN,cdn.techcommunity.microsoft.com
@@ -1019,6 +1025,7 @@ DOMAIN,cdn1.hotmoza.tv
 DOMAIN,cdn1.iconfinder.com
 DOMAIN,cdn1.identitymind.com
 DOMAIN,cdn1.plesk.com
+DOMAIN,cdn1.singteldigital.com
 DOMAIN,cdn1.stamped.io
 DOMAIN,cdn1.suno.ai
 DOMAIN,cdn1.sysgears.com
@@ -1049,6 +1056,8 @@ DOMAIN,cdn2.stamped.io
 DOMAIN,cdn2.suno.ai
 DOMAIN,cdn2.sysgears.com
 DOMAIN,cdn2.techbang.com
+DOMAIN,cdn2.telegram.space
+DOMAIN,cdn2.telesco.pe
 DOMAIN,cdn2.ttloli.com
 DOMAIN,cdn2.tubeteen18.com
 DOMAIN,cdn2.turboviplay.cc
@@ -1061,6 +1070,8 @@ DOMAIN,cdn3.iconfinder.com
 DOMAIN,cdn3.onlyfans.com
 DOMAIN,cdn3.stamped.io
 DOMAIN,cdn3.sysgears.com
+DOMAIN,cdn3.telegram.space
+DOMAIN,cdn3.telesco.pe
 DOMAIN,cdn3.tubeteen18.com
 DOMAIN,cdn3.unrealengine.com
 DOMAIN,cdn4.bigcommerce.com
@@ -1144,6 +1155,7 @@ DOMAIN,circle-flags.zeljko.me
 DOMAIN,clara.iwara.tv
 DOMAIN,claritystatic.azureedge.net
 DOMAIN,clickup.marketlinc.com
+DOMAIN,client-log-forwarder.1password.com
 DOMAIN,clientsdk.launchdarkly.com
 DOMAIN,clientstream.launchdarkly.com
 DOMAIN,clips-media-assets2.twitch.tv
@@ -1180,6 +1192,7 @@ DOMAIN,code.jquery.com
 DOMAIN,code.piano.io
 DOMAIN,code.trygravity.ai
 DOMAIN,code.upscope.io
+DOMAIN,coin-images.coingecko.com
 DOMAIN,comm.res.easebar.com
 DOMAIN,common-header.nimg.jp
 DOMAIN,community-cdn.openstreetmap.org
@@ -1222,6 +1235,7 @@ DOMAIN,content.overwolf.com
 DOMAIN,content.powerapps.com
 DOMAIN,content.presspage.com
 DOMAIN,content.wepik.com
+DOMAIN,contentful-asset-proxy.sd.indazn.com
 DOMAIN,contents-thumbnail2.fc2.com
 DOMAIN,conversiongorilla.com
 DOMAIN,cookie-cdn.cookiepro.com
@@ -1269,10 +1283,12 @@ DOMAIN,data.schemaapp.com
 DOMAIN,data.web.clickup.com
 DOMAIN,data3.answerbase.com
 DOMAIN,david-dm.org
+DOMAIN,dazn-content-proxy.sd.indazn.com
 DOMAIN,db.onlinewebfonts.com
 DOMAIN,dc-cdn.cdw.com
 DOMAIN,dd.blackhawknetwork.com
 DOMAIN,dd.dexscreener.com
+DOMAIN,delivery.twentythree.com
 DOMAIN,demo.unified-streaming.com
 DOMAIN,demotiles.maplibre.org
 DOMAIN,denali-static.grammarly.com
@@ -1297,6 +1313,7 @@ DOMAIN,divhunt.b-cdn.net
 DOMAIN,dl.airdroid.com
 DOMAIN,dlassets-ssl.xboxlive.com
 DOMAIN,dlstats.izzyondroid.org
+DOMAIN,dma.canyon.com
 DOMAIN,dmm-extension.com
 DOMAIN,do.featurebase.app
 DOMAIN,docs.brew.sh
@@ -1427,6 +1444,7 @@ DOMAIN,file.izanm.org
 DOMAIN,file.zoom.us
 DOMAIN,file1.hkepc.net
 DOMAIN,files.armorgames.com
+DOMAIN,files.blocktempo.ai
 DOMAIN,files.buildwithfern.com
 DOMAIN,files.gempages.net
 DOMAIN,files.iwara.tv
@@ -1468,6 +1486,7 @@ DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
 DOMAIN,fonts.loox.io
 DOMAIN,fonts.mailerlite.com
+DOMAIN,fonts.reown.com
 DOMAIN,fonts.sony.net
 DOMAIN,fonts.svc.ui.com
 DOMAIN,fonts.twitter.com
@@ -1477,7 +1496,6 @@ DOMAIN,fonts.zapier.com
 DOMAIN,fonts1.unidays.world
 DOMAIN,forest-mt-s3.seekrtech.com
 DOMAIN,form-assets.mailchimp.com
-DOMAIN,frames-commandbar-prod.commandbar.com
 DOMAIN,freeshippingbar.herokuapp.com
 DOMAIN,front-resource.fs.com
 DOMAIN,frontend-apps-multi-region.workos.com
@@ -1626,13 +1644,16 @@ DOMAIN,imag.malavida.com
 DOMAIN,image-cdn.porndig.com
 DOMAIN,image-forwarder.notaku.so
 DOMAIN,image-stgus.samsung.com
+DOMAIN,image-tc.galaxy.tf
 DOMAIN,image-us.samsung.com
 DOMAIN,image.acg.lol
 DOMAIN,image.ap-mail.org
+DOMAIN,image.blocktempo.com
 DOMAIN,image.civitai.com
 DOMAIN,image.cnbcfm.com
 DOMAIN,image.comicbz.com
 DOMAIN,image.crisp.chat
+DOMAIN,image.discovery.indazn.com
 DOMAIN,image.dooo.ng
 DOMAIN,image.email.microsoftemail.com
 DOMAIN,image.freepik.com
@@ -1704,6 +1725,7 @@ DOMAIN,images.flightradar24.com
 DOMAIN,images.g2crowd.com
 DOMAIN,images.github.media
 DOMAIN,images.gog.com
+DOMAIN,images.hibob.com
 DOMAIN,images.hothardware.com
 DOMAIN,images.icon-icons.com
 DOMAIN,images.indianexpress.com
@@ -1732,6 +1754,7 @@ DOMAIN,images.prismic.io
 DOMAIN,images.profile.autodesk.com
 DOMAIN,images.ptt.cc
 DOMAIN,images.purevpn-tools.com
+DOMAIN,images.radio-canada.ca
 DOMAIN,images.rss.app
 DOMAIN,images.samsung.com
 DOMAIN,images.scalero.io
@@ -1820,6 +1843,7 @@ DOMAIN,img.freepik.com
 DOMAIN,img.fzf404.art
 DOMAIN,img.gs
 DOMAIN,img.hellofresh.com
+DOMAIN,img.helpnetsecurity.com
 DOMAIN,img.hentaihaven.xxx
 DOMAIN,img.highporn.net
 DOMAIN,img.huffingtonpost.com
@@ -1889,6 +1913,7 @@ DOMAIN,img1.socialshopwave.com
 DOMAIN,img1.yeggi.com
 DOMAIN,img1.yna.co.kr
 DOMAIN,img2.gelbooru.com
+DOMAIN,img2.helpnetsecurity.com
 DOMAIN,img2.javmost.com
 DOMAIN,img2.socialshopwave.com
 DOMAIN,img2.tnaflix.com
@@ -1961,6 +1986,7 @@ DOMAIN,jotai.org
 DOMAIN,js-1-cdn.airdroid.com
 DOMAIN,js-eu1.hsforms.net
 DOMAIN,js-s3.quickcep.com
+DOMAIN,js.arcgis.com
 DOMAIN,js.assemblyexchange.com
 DOMAIN,js.braintreegateway.com
 DOMAIN,js.chargebee.com
@@ -2010,6 +2036,7 @@ DOMAIN,latency-test.skk.moe
 DOMAIN,launcher-files.modrinth.com
 DOMAIN,launcher.spot.im
 DOMAIN,launchercontent.mojang.com
+DOMAIN,layers.mapq.st
 DOMAIN,lc.nssurge.com
 DOMAIN,learn-attachment.microsoft.com
 DOMAIN,learn.optimizely.com
@@ -2085,6 +2112,7 @@ DOMAIN,media-central.indianexpress.com
 DOMAIN,media-cms.ayoba.me
 DOMAIN,media-cms.onesignal.com
 DOMAIN,media-hls.growcdnssedge.com
+DOMAIN,media-process.hibob.com
 DOMAIN,media-s3-us-east-1.ceros.com
 DOMAIN,media.beehiiv.com
 DOMAIN,media.breitbart.com
@@ -2126,6 +2154,7 @@ DOMAIN,media.infosec.exchange
 DOMAIN,media.inhumanity.com
 DOMAIN,media.invisioncic.com
 DOMAIN,media.istockphoto.com
+DOMAIN,media.karousell.com
 DOMAIN,media.kit.com
 DOMAIN,media.lantern.io
 DOMAIN,media.letsdeel.com
@@ -2302,6 +2331,7 @@ DOMAIN,ph.northflank.com
 DOMAIN,ph.tryprofound.com
 DOMAIN,pha-prx.ops.cloud.nx.app
 DOMAIN,phishing.army
+DOMAIN,photos.flightaware.com
 DOMAIN,photos5.appleinsider.com
 DOMAIN,pic-bstarstatic.akamaized.net
 DOMAIN,pic.7mmtv.me
@@ -2457,6 +2487,7 @@ DOMAIN,resource-accel.fs.com
 DOMAIN,resource.akashic.coe.nicovideo.jp
 DOMAIN,resource.fs.com
 DOMAIN,resource.logitech.com
+DOMAIN,resource.logitechg.com
 DOMAIN,resource.tnlmediagene.com
 DOMAIN,resource.video.nimg.jp
 DOMAIN,resources-cache.prod.sketch.com
@@ -2465,6 +2496,7 @@ DOMAIN,resources.allstate.com
 DOMAIN,resources.chessbase.com
 DOMAIN,resources.digital-cloud.medallia.com
 DOMAIN,resources.help.salesforce.com
+DOMAIN,resources.redbull.tv
 DOMAIN,resources.whatwg.org
 DOMAIN,rest.happierleads.com
 DOMAIN,reviews-badge.capterra.com
@@ -2522,10 +2554,10 @@ DOMAIN,s3-figma-force-client-reloads-production.figma.com
 DOMAIN,s3-figma-plugin-images-production-sig.figma.com
 DOMAIN,s3-symbol-logo.tradingview.com
 DOMAIN,s3.2233778.xyz
-DOMAIN,s3.aaaaa.io
 DOMAIN,s3.acg.mn
 DOMAIN,s3.anilist.co
 DOMAIN,s3.arkjp.net
+DOMAIN,s3.beta.coinmarketcap.com
 DOMAIN,s3.c.im
 DOMAIN,s3.coinmarketcap.com
 DOMAIN,s3.cointelegraph.com
@@ -2769,7 +2801,6 @@ DOMAIN,static.arxiv.org
 DOMAIN,static.assetlab.io
 DOMAIN,static.assets-stash.eet-china.com
 DOMAIN,static.axios.com
-DOMAIN,static.bad.news
 DOMAIN,static.bangumi.moe
 DOMAIN,static.bbc.co.uk
 DOMAIN,static.bbci.co.uk
@@ -2811,6 +2842,7 @@ DOMAIN,static.cracked.ax
 DOMAIN,static.cracked.sh
 DOMAIN,static.crunchyroll.com
 DOMAIN,static.crypto.com
+DOMAIN,static.dazndn.com
 DOMAIN,static.deepl.com
 DOMAIN,static.doujins.com
 DOMAIN,static.driffle.com
@@ -2841,6 +2873,7 @@ DOMAIN,static.foxnews.com
 DOMAIN,static.frame.work
 DOMAIN,static.freedownloadmanager.org
 DOMAIN,static.fundraiseup.com
+DOMAIN,static.gamma.app
 DOMAIN,static.garmin.com
 DOMAIN,static.generated.photos
 DOMAIN,static.getbutton.io
@@ -2864,6 +2897,7 @@ DOMAIN,static.hosting.com
 DOMAIN,static.hotjar.com
 DOMAIN,static.hubspot.com
 DOMAIN,static.hugedomains.com
+DOMAIN,static.idp.sph.com.sg
 DOMAIN,static.ietf.org
 DOMAIN,static.ifunny.co
 DOMAIN,static.incapsula.com
@@ -2883,6 +2917,7 @@ DOMAIN,static.izanmei.icu
 DOMAIN,static.j51.net
 DOMAIN,static.javhd.com
 DOMAIN,static.jsbin.com
+DOMAIN,static.jup.ag
 DOMAIN,static.k2s.cc
 DOMAIN,static.killedbygoogle.com
 DOMAIN,static.klaviyo.com
@@ -2924,6 +2959,7 @@ DOMAIN,static.nrk.no
 DOMAIN,static.nyse.com
 DOMAIN,static.observablehq.com
 DOMAIN,static.oklink.com
+DOMAIN,static.okou.io
 DOMAIN,static.okx.cab
 DOMAIN,static.okx.com
 DOMAIN,static.olelive.com
@@ -3024,6 +3060,7 @@ DOMAIN,static1.smartbear.co
 DOMAIN,static1.squarespace.com
 DOMAIN,static10.lottiefiles.com
 DOMAIN,static2.avg.com
+DOMAIN,static2.giroditalia.it
 DOMAIN,static2.lottiefiles.com
 DOMAIN,static2.onlyfans.com
 DOMAIN,static2.sharepointonline.com
@@ -3126,10 +3163,12 @@ DOMAIN,texture.laby.net
 DOMAIN,th.bing.com
 DOMAIN,themes.fourthwall.com
 DOMAIN,themes.hibootstrap.com
+DOMAIN,thumb.wikimedia.org
 DOMAIN,thumbnail.missav.com
 DOMAIN,thumbnailer.mixcloud.com
 DOMAIN,thumbnails.applegamingwiki.com
 DOMAIN,thumbnails.cbsig.net
+DOMAIN,thumbnails.padre.gg
 DOMAIN,thumbor.4gamers.com.tw
 DOMAIN,thumbor.forbes.com
 DOMAIN,thumbs.onlyfans.com
@@ -3152,6 +3191,7 @@ DOMAIN,tilemaps.icgc.cat
 DOMAIN,tiles-a.koordinates.com
 DOMAIN,tiles-eu.stadiamaps.com
 DOMAIN,tiles.arcgis.com
+DOMAIN,tiles.flightaware.com
 DOMAIN,tiles.gsj.jp
 DOMAIN,tiles.immich.cloud
 DOMAIN,tiles.locationiq.com
@@ -3177,6 +3217,7 @@ DOMAIN,tiles1.planet.com
 DOMAIN,tiles2.mapiful.com
 DOMAIN,tiles2.planet.com
 DOMAIN,tiles3.planet.com
+DOMAIN,tileserver.b10s.net
 DOMAIN,tileserver.gnome.org
 DOMAIN,tileserver.memomaps.de
 DOMAIN,time-a.nist.gov
@@ -3218,6 +3259,7 @@ DOMAIN,ubistatic-a.ubisoft.com
 DOMAIN,ubistatic2-a.akamaihd.net
 DOMAIN,ubistatic2-a.ubisoft.com
 DOMAIN,udata.namespace.so
+DOMAIN,ugc.production.linktr.ee
 DOMAIN,uhf.microsoft.com
 DOMAIN,ui-cdn.digitalocean-ui.com
 DOMAIN,ui-cdn.digitalocean.com
@@ -3274,6 +3316,7 @@ DOMAIN,vanilla-extract.style
 DOMAIN,variations.brave.com
 DOMAIN,vbmspic.video.friday.tw
 DOMAIN,vcdn.anysex.com
+DOMAIN,vector.hereapi.com
 DOMAIN,vectorified.com
 DOMAIN,versionbadg.es
 DOMAIN,vetted.ai
@@ -3285,6 +3328,7 @@ DOMAIN,video-meta.humix.com
 DOMAIN,video.bsky.app
 DOMAIN,video.cdnbye.com
 DOMAIN,video.dailymail.co.uk
+DOMAIN,video.giroditalia.it
 DOMAIN,video1.7mmtv.sx
 DOMAIN,video2.7mmtv.sx
 DOMAIN,video3.mingpao.com
@@ -3344,6 +3388,7 @@ DOMAIN,webp.frostming.com
 DOMAIN,website-cdn.ipinfo.io
 DOMAIN,website-media.deel.com
 DOMAIN,website-prod.cache.wpscdn.com
+DOMAIN,websiteres.nmteam.xyz
 DOMAIN,webstatic.chargebee.com
 DOMAIN,widget.allkeyshop.com
 DOMAIN,widget.automizely.com
@@ -3497,6 +3542,7 @@ DOMAIN-SUFFIX,aweber-static.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,awxcdn.com
 DOMAIN-SUFFIX,ax1x.com
+DOMAIN-SUFFIX,axiom-cdn.io
 DOMAIN-SUFFIX,axis-cdn.net
 DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,b2c-contenthub.com
@@ -3768,12 +3814,14 @@ DOMAIN-SUFFIX,f.hubspotstarter.net
 DOMAIN-SUFFIX,faceit-cdn.net
 DOMAIN-SUFFIX,fakeimg.pl
 DOMAIN-SUFFIX,fakestoreapi.com
+DOMAIN-SUFFIX,fal.media
 DOMAIN-SUFFIX,fast-sfc.com
 DOMAIN-SUFFIX,fastlycdn.com
 DOMAIN-SUFFIX,favicone.com
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fe.indazn.com
 DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,feedercdn.com
 DOMAIN-SUFFIX,fembeqv2.xyz
@@ -3826,6 +3874,7 @@ DOMAIN-SUFFIX,gateway.scarf.sh
 DOMAIN-SUFFIX,gateway.serph.network
 DOMAIN-SUFFIX,gauthstatic.com
 DOMAIN-SUFFIX,gayzyimage.com
+DOMAIN-SUFFIX,gazzettaobjects.it
 DOMAIN-SUFFIX,gcr.si
 DOMAIN-SUFFIX,gdvid.info
 DOMAIN-SUFFIX,gentcdn.com
@@ -3984,7 +4033,6 @@ DOMAIN-SUFFIX,ipfs.busy.org
 DOMAIN-SUFFIX,ipfs.cyou
 DOMAIN-SUFFIX,ipfs.decoo.io
 DOMAIN-SUFFIX,ipfs.denarius.io
-DOMAIN-SUFFIX,ipfs.ecolatam.com
 DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN-SUFFIX,ipfs.eth.aragon.network
 DOMAIN-SUFFIX,ipfs.filebase.io
@@ -4129,6 +4177,7 @@ DOMAIN-SUFFIX,mngbcn.com
 DOMAIN-SUFFIX,mobilius.top
 DOMAIN-SUFFIX,monitor.azure.com
 DOMAIN-SUFFIX,motherlessmedia.com
+DOMAIN-SUFFIX,mqcdn.com
 DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
@@ -4166,6 +4215,7 @@ DOMAIN-SUFFIX,nineyu.com
 DOMAIN-SUFFIX,ninjastream.to
 DOMAIN-SUFFIX,nitrocdn.com
 DOMAIN-SUFFIX,nodecdn.net
+DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,nordcdn.com
 DOMAIN-SUFFIX,notify.bugsnag.com
@@ -4214,6 +4264,7 @@ DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,pcdn.co
 DOMAIN-SUFFIX,permaweb.eu.org
 DOMAIN-SUFFIX,permaweb.io
+DOMAIN-SUFFIX,pgimgs.com
 DOMAIN-SUFFIX,pgl.yoyo.org
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,photobucket.com
@@ -4293,6 +4344,7 @@ DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,raxcdn.com
 DOMAIN-SUFFIX,raygun.io
 DOMAIN-SUFFIX,rbxcdn.com
+DOMAIN-SUFFIX,rcsobjects.it
 DOMAIN-SUFFIX,rdtcdn.com
 DOMAIN-SUFFIX,react.dev
 DOMAIN-SUFFIX,reactjs.org
@@ -4300,6 +4352,7 @@ DOMAIN-SUFFIX,readthedocs.io
 DOMAIN-SUFFIX,reasoningtheory.net
 DOMAIN-SUFFIX,rechargecdn.com
 DOMAIN-SUFFIX,recharts.org
+DOMAIN-SUFFIX,reconvert-cdn.com
 DOMAIN-SUFFIX,redcdn.net
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,redditmedia.com
@@ -4336,6 +4389,7 @@ DOMAIN-SUFFIX,scribdassets.com
 DOMAIN-SUFFIX,scripts.gatorapi.com
 DOMAIN-SUFFIX,seadn.io
 DOMAIN-SUFFIX,seecdn.com
+DOMAIN-SUFFIX,seecdn.net
 DOMAIN-SUFFIX,seeusercontent.com
 DOMAIN-SUFFIX,sendspace.com
 DOMAIN-SUFFIX,senja.io
@@ -4393,6 +4447,7 @@ DOMAIN-SUFFIX,stackblitz.io
 DOMAIN-SUFFIX,stapecdn.com
 DOMAIN-SUFFIX,static-assets.photoshop.adobe.com
 DOMAIN-SUFFIX,static-prod-web.miniclip.com
+DOMAIN-SUFFIX,static-upwork.com
 DOMAIN-SUFFIX,static.amplience.net
 DOMAIN-SUFFIX,static.chaosgroup.com
 DOMAIN-SUFFIX,static.dash.cloudflare.com
@@ -4501,7 +4556,6 @@ DOMAIN-SUFFIX,tpucdn.com
 DOMAIN-SUFFIX,trackerslist.com
 DOMAIN-SUFFIX,trafficdeposit.com
 DOMAIN-SUFFIX,transcend-cdn.com
-DOMAIN-SUFFIX,tripcdn.com
 DOMAIN-SUFFIX,trustless-gateway.link
 DOMAIN-SUFFIX,ttcache.com
 DOMAIN-SUFFIX,ttl.sh

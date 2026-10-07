@@ -1,5 +1,5 @@
 # 规则名称: Ads_AWAvenue
-# 规则统计: 897
+# 规则统计: 958
 
 HOST-SUFFIX,1500020991.vodplayer.wxamedia.com,Ads_AWAvenue
 HOST-SUFFIX,1500022744.vodplayer.wxamedia.com,Ads_AWAvenue
@@ -11,7 +11,9 @@ HOST-SUFFIX,a.market.xiaomi.com,Ads_AWAvenue
 HOST-SUFFIX,a0.app.xiaomi.com,Ads_AWAvenue
 HOST-SUFFIX,aaid.umeng.com,Ads_AWAvenue
 HOST-SUFFIX,abtest-ch.snssdk.com,Ads_AWAvenue
+HOST-SUFFIX,ad-api.4pyun.com,Ads_AWAvenue
 HOST-SUFFIX,ad-cdn.qingting.fm,Ads_AWAvenue
+HOST-SUFFIX,ad-files.4pyun.com,Ads_AWAvenue
 HOST-SUFFIX,ad-scope.com,Ads_AWAvenue
 HOST-SUFFIX,ad-scope.com.cn,Ads_AWAvenue
 HOST-SUFFIX,ad-sdk-config.youdao.com,Ads_AWAvenue
@@ -20,16 +22,20 @@ HOST-SUFFIX,ad-splash.hktvmall.com,Ads_AWAvenue
 HOST-SUFFIX,ad.12306.cn,Ads_AWAvenue
 HOST-SUFFIX,ad.51wnl.com,Ads_AWAvenue
 HOST-SUFFIX,ad.api.3g.youku.com,Ads_AWAvenue
+HOST-SUFFIX,ad.bn.netease.com,Ads_AWAvenue
 HOST-SUFFIX,ad.bwton.com,Ads_AWAvenue
 HOST-SUFFIX,ad.cctv.com,Ads_AWAvenue
 HOST-SUFFIX,ad.cyapi.cn,Ads_AWAvenue
 HOST-SUFFIX,ad.doubleclick.net,Ads_AWAvenue
+HOST-SUFFIX,ad.duoduo.link,Ads_AWAvenue
 HOST-SUFFIX,ad.gameley.com,Ads_AWAvenue
 HOST-SUFFIX,ad.hpplay.cn,Ads_AWAvenue
 HOST-SUFFIX,ad.iot.360.cn,Ads_AWAvenue
 HOST-SUFFIX,ad.jia.360.cn,Ads_AWAvenue
 HOST-SUFFIX,ad.life.360.cn,Ads_AWAvenue
+HOST-SUFFIX,ad.maoyan.com,Ads_AWAvenue
 HOST-SUFFIX,ad.partner.gifshow.com,Ads_AWAvenue
+HOST-SUFFIX,ad.player.baidu.com,Ads_AWAvenue
 HOST-SUFFIX,ad.qingting.fm,Ads_AWAvenue
 HOST-SUFFIX,ad.qq.com,Ads_AWAvenue
 HOST-SUFFIX,ad.richmob.cn,Ads_AWAvenue
@@ -38,17 +44,20 @@ HOST-SUFFIX,ad.shunchangzhixing.com,Ads_AWAvenue
 HOST-SUFFIX,ad.tencentmusic.com,Ads_AWAvenue
 HOST-SUFFIX,ad.toutiao.com,Ads_AWAvenue
 HOST-SUFFIX,ad.v3mh.com,Ads_AWAvenue
-HOST-SUFFIX,ad.weibo.com,Ads_AWAvenue
 HOST-SUFFIX,ad.winrar.com.cn,Ads_AWAvenue
 HOST-SUFFIX,ad.ximalaya.com,Ads_AWAvenue
 HOST-SUFFIX,ad.xunkids.com,Ads_AWAvenue
 HOST-SUFFIX,ad.zijieapi.com,Ads_AWAvenue
+HOST-SUFFIX,ad4.sina.com.cn,Ads_AWAvenue
 HOST-SUFFIX,adapi.izuiyou.com,Ads_AWAvenue
 HOST-SUFFIX,adapi.yynetwk.com,Ads_AWAvenue
+HOST-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com,Ads_AWAvenue
 HOST-SUFFIX,adashbc.ut.taobao.com,Ads_AWAvenue
 HOST-SUFFIX,adashx.m.taobao.com,Ads_AWAvenue
 HOST-SUFFIX,adashxgc.ut.taobao.com,Ads_AWAvenue
+HOST-SUFFIX,adbox.sina.com.cn,Ads_AWAvenue
 HOST-SUFFIX,adc.hpplay.cn,Ads_AWAvenue
+HOST-SUFFIX,adcanvas.com,Ads_AWAvenue
 HOST-SUFFIX,adcdn.hpplay.cn,Ads_AWAvenue
 HOST-SUFFIX,adcdn.tencentmusic.com,Ads_AWAvenue
 HOST-SUFFIX,adclick.g.doubleclick.net,Ads_AWAvenue
@@ -67,7 +76,12 @@ HOST-SUFFIX,adjust.cn,Ads_AWAvenue
 HOST-SUFFIX,adjust.com,Ads_AWAvenue
 HOST-SUFFIX,adks.hpplay.cn,Ads_AWAvenue
 HOST-SUFFIX,adlink-api.huan.tv,Ads_AWAvenue
+HOST-SUFFIX,adlog.vivo.com.cn,Ads_AWAvenue
 HOST-SUFFIX,adm.funshion.com,Ads_AWAvenue
+HOST-SUFFIX,adm.zhangyuyidong.cn,Ads_AWAvenue
+HOST-SUFFIX,admarketing.yahoo.net,Ads_AWAvenue
+HOST-SUFFIX,admobile.top,Ads_AWAvenue
+HOST-SUFFIX,adreq.vivo.com.cn,Ads_AWAvenue
 HOST-SUFFIX,ads-api-o.api.leiniao.com,Ads_AWAvenue
 HOST-SUFFIX,ads-api.tiktok.com,Ads_AWAvenue
 HOST-SUFFIX,ads-api.twitter.com,Ads_AWAvenue
@@ -77,17 +91,20 @@ HOST-SUFFIX,ads-jp.tiktok.com,Ads_AWAvenue
 HOST-SUFFIX,ads-marketing-vivofs.vivo.com.cn,Ads_AWAvenue
 HOST-SUFFIX,ads-sdk-api.ranfenghd.com,Ads_AWAvenue
 HOST-SUFFIX,ads-sg.tiktok.com,Ads_AWAvenue
+HOST-SUFFIX,ads-shopping.shouqianba.com,Ads_AWAvenue
 HOST-SUFFIX,ads-video-al.xhscdn.com,Ads_AWAvenue
 HOST-SUFFIX,ads-video-qc.xhscdn.com,Ads_AWAvenue
 HOST-SUFFIX,ads.95516.com,Ads_AWAvenue
 HOST-SUFFIX,ads.adfunlink.com,Ads_AWAvenue
 HOST-SUFFIX,ads.auctions.yahoo.com,Ads_AWAvenue
 HOST-SUFFIX,ads.cup.com.cn,Ads_AWAvenue
+HOST-SUFFIX,ads.finance.yahoo.com,Ads_AWAvenue
 HOST-SUFFIX,ads.google.cn,Ads_AWAvenue
 HOST-SUFFIX,ads.huan.tv,Ads_AWAvenue
 HOST-SUFFIX,ads.huantest.com,Ads_AWAvenue
 HOST-SUFFIX,ads.icloseli.cn,Ads_AWAvenue
 HOST-SUFFIX,ads.inmobi.com,Ads_AWAvenue
+HOST-SUFFIX,ads.ishansong.com,Ads_AWAvenue
 HOST-SUFFIX,ads.linkedin.com,Ads_AWAvenue
 HOST-SUFFIX,ads.pinterest.com,Ads_AWAvenue
 HOST-SUFFIX,ads.pubmatic.com,Ads_AWAvenue
@@ -106,6 +123,7 @@ HOST-SUFFIX,ads5-normal-hl.zijieapi.com,Ads_AWAvenue
 HOST-SUFFIX,ads5-normal-lf.zijieapi.com,Ads_AWAvenue
 HOST-SUFFIX,ads5-normal-lq.zijieapi.com,Ads_AWAvenue
 HOST-SUFFIX,ads5-normal.zijieapi.com,Ads_AWAvenue
+HOST-SUFFIX,adscdn.baidu.com,Ads_AWAvenue
 HOST-SUFFIX,adsdk.vivo.com.cn,Ads_AWAvenue
 HOST-SUFFIX,adse.test.ximalaya.com,Ads_AWAvenue
 HOST-SUFFIX,adse.wsa.ximalaya.com,Ads_AWAvenue
@@ -125,11 +143,15 @@ HOST-SUFFIX,adsfs.heytapimage.com,Ads_AWAvenue
 HOST-SUFFIX,adsfs.oppomobile.com,Ads_AWAvenue
 HOST-SUFFIX,adslvfile.qq.com,Ads_AWAvenue
 HOST-SUFFIX,adsmart.konka.com,Ads_AWAvenue
+HOST-SUFFIX,adsmartget.datads.cn,Ads_AWAvenue
 HOST-SUFFIX,adsmind.gdtimg.com,Ads_AWAvenue
 HOST-SUFFIX,adsmind.ugdtimg.com,Ads_AWAvenue
+HOST-SUFFIX,adsmoloco.com,Ads_AWAvenue
 HOST-SUFFIX,adsp.xunlei.com,Ads_AWAvenue
+HOST-SUFFIX,adspecs.yahoo.com,Ads_AWAvenue
 HOST-SUFFIX,adstat.izuiyou.com,Ads_AWAvenue
 HOST-SUFFIX,adstats.tencentmusic.com,Ads_AWAvenue
+HOST-SUFFIX,adstextview.qq.com,Ads_AWAvenue
 HOST-SUFFIX,adstore-1252524079.file.myqcloud.com,Ads_AWAvenue
 HOST-SUFFIX,adstore-index-1252524079.file.myqcloud.com,Ads_AWAvenue
 HOST-SUFFIX,adstrategy.biz.weibo.com,Ads_AWAvenue
@@ -160,6 +182,7 @@ HOST-SUFFIX,adx-cn.anythinktech.com,Ads_AWAvenue
 HOST-SUFFIX,adx-drcn.op.dbankcloud.cn,Ads_AWAvenue
 HOST-SUFFIX,adx-open-service.youku.com,Ads_AWAvenue
 HOST-SUFFIX,adx-os.anythinktech.com,Ads_AWAvenue
+HOST-SUFFIX,adx-os.bridgeoos.com,Ads_AWAvenue
 HOST-SUFFIX,adx-saas.advlion.com,Ads_AWAvenue
 HOST-SUFFIX,adx-strategy-api-cn.statisticslinks.com,Ads_AWAvenue
 HOST-SUFFIX,adx.ads.heytapmobi.com,Ads_AWAvenue
@@ -169,7 +192,9 @@ HOST-SUFFIX,adx.appsdk.com.cn,Ads_AWAvenue
 HOST-SUFFIX,adx.sogaha.cn,Ads_AWAvenue
 HOST-SUFFIX,adx.tuia.cn,Ads_AWAvenue
 HOST-SUFFIX,adxlog-adnet.vivo.com.cn,Ads_AWAvenue
+HOST-SUFFIX,adxlog.vivo.com.cn,Ads_AWAvenue
 HOST-SUFFIX,adxserver.ad.cmvideo.cn,Ads_AWAvenue
+HOST-SUFFIX,adxstatic.vivo.com.cn,Ads_AWAvenue
 HOST-SUFFIX,aegis.qq.com,Ads_AWAvenue
 HOST-SUFFIX,aem.dentsuchina.cn,Ads_AWAvenue
 HOST-SUFFIX,afs.googlesyndication.com,Ads_AWAvenue
@@ -179,6 +204,7 @@ HOST-SUFFIX,ali-ad.a.yximgs.com,Ads_AWAvenue
 HOST-SUFFIX,ali-p2p-v2.pull.yximgs.com,Ads_AWAvenue
 HOST-SUFFIX,alicoccdncnc-xn.inter.71edge.com,Ads_AWAvenue
 HOST-SUFFIX,alicoccdnct-xn.inter.71edge.com,Ads_AWAvenue
+HOST-SUFFIX,alltbcsp2p.baidu.com,Ads_AWAvenue
 HOST-SUFFIX,alog.umeng.com,Ads_AWAvenue
 HOST-SUFFIX,alogus.umeng.com,Ads_AWAvenue
 HOST-SUFFIX,als.baidu.com,Ads_AWAvenue
@@ -269,6 +295,7 @@ HOST-SUFFIX,bj-td-menta-01-callback.advlion.com,Ads_AWAvenue
 HOST-SUFFIX,bj.ad.track.66mobi.com,Ads_AWAvenue
 HOST-SUFFIX,books-analytics-events.apple.com,Ads_AWAvenue
 HOST-SUFFIX,bootpreload.uve.weibo.com,Ads_AWAvenue
+HOST-SUFFIX,brandadsstatic.vivo.com.cn,Ads_AWAvenue
 HOST-SUFFIX,browser.events.data.msn.cn,Ads_AWAvenue
 HOST-SUFFIX,browser.events.data.msn.com,Ads_AWAvenue
 HOST-SUFFIX,browsercfg-drcn.cloud.dbankcloud.cn,Ads_AWAvenue
@@ -313,6 +340,7 @@ HOST-SUFFIX,cnlogs.umengcloud.com,Ads_AWAvenue
 HOST-SUFFIX,cnzz.com,Ads_AWAvenue
 HOST-SUFFIX,collect.kugou.com,Ads_AWAvenue
 HOST-SUFFIX,commdata.v.qq.com,Ads_AWAvenue
+HOST-SUFFIX,commercial.shouji.360.cn,Ads_AWAvenue
 HOST-SUFFIX,conf.hpplay.cn,Ads_AWAvenue
 HOST-SUFFIX,config.chsmarttv.com,Ads_AWAvenue
 HOST-SUFFIX,config.inmobi.com,Ads_AWAvenue
@@ -334,6 +362,7 @@ HOST-SUFFIX,data.mistat.rus.xiaomi.com,Ads_AWAvenue
 HOST-SUFFIX,data.mistat.xiaomi.com,Ads_AWAvenue
 HOST-SUFFIX,datacollection.uve.weibo.com,Ads_AWAvenue
 HOST-SUFFIX,dc.sigmob.cn,Ads_AWAvenue
+HOST-SUFFIX,de.ad.gameley.com,Ads_AWAvenue
 HOST-SUFFIX,de.tynt.com,Ads_AWAvenue
 HOST-SUFFIX,diagnosis.ad.xiaomi.com,Ads_AWAvenue
 HOST-SUFFIX,dlogs.bwton.com,Ads_AWAvenue
@@ -344,6 +373,7 @@ HOST-SUFFIX,download.changhong.upgrade2.huan.tv,Ads_AWAvenue
 HOST-SUFFIX,downloadxml.changhong.upgrade2.huan.tv,Ads_AWAvenue
 HOST-SUFFIX,dsp-x.jd.com,Ads_AWAvenue
 HOST-SUFFIX,dsp.fcbox.com,Ads_AWAvenue
+HOST-SUFFIX,dsplog-adnet.vivo.com.cn,Ads_AWAvenue
 HOST-SUFFIX,dualstack-logs.amap.com,Ads_AWAvenue
 HOST-SUFFIX,dxp.baidu.com,Ads_AWAvenue
 HOST-SUFFIX,dyp2p-ali.douyucdn.cn,Ads_AWAvenue
@@ -359,6 +389,7 @@ HOST-SUFFIX,event.tradplusad.com,Ads_AWAvenue
 HOST-SUFFIX,events-drcn.op.dbankcloud.cn,Ads_AWAvenue
 HOST-SUFFIX,events.reddit.com,Ads_AWAvenue
 HOST-SUFFIX,events.redditmedia.com,Ads_AWAvenue
+HOST-SUFFIX,eventv1.leidong.rayenergytech.com,Ads_AWAvenue
 HOST-SUFFIX,fancyapi.com,Ads_AWAvenue
 HOST-SUFFIX,fclog.baidu.com,Ads_AWAvenue
 HOST-SUFFIX,feed-image.baidu.com,Ads_AWAvenue
@@ -393,6 +424,8 @@ HOST-SUFFIX,grs.dbankcloud.com,Ads_AWAvenue
 HOST-SUFFIX,grs.hicloud.com,Ads_AWAvenue
 HOST-SUFFIX,gslb.hpplay.cn,Ads_AWAvenue
 HOST-SUFFIX,gvideo.qpic.cn,Ads_AWAvenue
+HOST-SUFFIX,gw5.push.mcp.weibo.cn,Ads_AWAvenue
+HOST-SUFFIX,gw6.push.mcp.weibo.cn,Ads_AWAvenue
 HOST-SUFFIX,h-adashx.ut.taobao.com,Ads_AWAvenue
 HOST-SUFFIX,h.trace.qq.com,Ads_AWAvenue
 HOST-SUFFIX,h5.analytics.126.net,Ads_AWAvenue
@@ -413,6 +446,8 @@ HOST-SUFFIX,httpdns.ocloud.oppomobile.com,Ads_AWAvenue
 HOST-SUFFIX,hugelog.fcbox.com,Ads_AWAvenue
 HOST-SUFFIX,huichuan-mc.sm.cn,Ads_AWAvenue
 HOST-SUFFIX,huichuan.sm.cn,Ads_AWAvenue
+HOST-SUFFIX,huodong.ios.shouji.360.cn,Ads_AWAvenue
+HOST-SUFFIX,huodong.weibo.cn,Ads_AWAvenue
 HOST-SUFFIX,hw-ot-ad.a.yximgs.com,Ads_AWAvenue
 HOST-SUFFIX,hw-p2p-pull.video-voip.com,Ads_AWAvenue
 HOST-SUFFIX,hw-p2p.pull.yximgs.com,Ads_AWAvenue
@@ -424,10 +459,11 @@ HOST-SUFFIX,i.l-new.inmobicdn.net,Ads_AWAvenue
 HOST-SUFFIX,i.l.inmobicdn.net,Ads_AWAvenue
 HOST-SUFFIX,iad.apple.com,Ads_AWAvenue
 HOST-SUFFIX,iad.g.163.com,Ads_AWAvenue
+HOST-SUFFIX,iadcontent.apple.com,Ads_AWAvenue
 HOST-SUFFIX,iadctest.qwapi.com,Ads_AWAvenue
+HOST-SUFFIX,iadmoo.apple.com,Ads_AWAvenue
 HOST-SUFFIX,iadmusicmat.music.126.net,Ads_AWAvenue
 HOST-SUFFIX,iadsdk.apple.com,Ads_AWAvenue
-HOST-SUFFIX,iadworkbench.apple.com,Ads_AWAvenue
 HOST-SUFFIX,ifacelog.iqiyi.com,Ads_AWAvenue
 HOST-SUFFIX,ifs.tanx.com,Ads_AWAvenue
 HOST-SUFFIX,ii.gdt.qq.com,Ads_AWAvenue
@@ -443,6 +479,8 @@ HOST-SUFFIX,impression-asia.chinaliftoff.io,Ads_AWAvenue
 HOST-SUFFIX,impression-asia.liftoff.io,Ads_AWAvenue
 HOST-SUFFIX,impression.appsflyer.com,Ads_AWAvenue
 HOST-SUFFIX,in.treasuredata.com,Ads_AWAvenue
+HOST-SUFFIX,init.supersonicads.com,Ads_AWAvenue
+HOST-SUFFIX,inner-hw.huazirc.com,Ads_AWAvenue
 HOST-SUFFIX,ios.bugly.qq.com,Ads_AWAvenue
 HOST-SUFFIX,iot-eu-logser.realme.com,Ads_AWAvenue
 HOST-SUFFIX,iot-logser.realme.com,Ads_AWAvenue
@@ -452,6 +490,7 @@ HOST-SUFFIX,ixav-cse.avlyun.com,Ads_AWAvenue
 HOST-SUFFIX,iyfbodn.com,Ads_AWAvenue
 HOST-SUFFIX,janapi.jd.com,Ads_AWAvenue
 HOST-SUFFIX,jiguang.cn,Ads_AWAvenue
+HOST-SUFFIX,jp.ad.gameley.com,Ads_AWAvenue
 HOST-SUFFIX,jpush.cn,Ads_AWAvenue
 HOST-SUFFIX,jpush.html5.qq.com,Ads_AWAvenue
 HOST-SUFFIX,jpush.io,Ads_AWAvenue
@@ -465,6 +504,7 @@ HOST-SUFFIX,ks-p2p-v2.pull.yximgs.com,Ads_AWAvenue
 HOST-SUFFIX,ks-p2p.pull.yximgs.com,Ads_AWAvenue
 HOST-SUFFIX,ks.ferlytc.com,Ads_AWAvenue
 HOST-SUFFIX,ks.pull.yximgs.com,Ads_AWAvenue
+HOST-SUFFIX,kwpush.kuwo.cn,Ads_AWAvenue
 HOST-SUFFIX,l6.fancyapi.com,Ads_AWAvenue
 HOST-SUFFIX,launcher.smart-tv.cn,Ads_AWAvenue
 HOST-SUFFIX,launcherimg.smart-tv.cn,Ads_AWAvenue
@@ -494,7 +534,6 @@ HOST-SUFFIX,log-verify.dutils.com,Ads_AWAvenue
 HOST-SUFFIX,log-verify.hiaiabc.com,Ads_AWAvenue
 HOST-SUFFIX,log.ad.xiaomi.com,Ads_AWAvenue
 HOST-SUFFIX,log.aispeech.com,Ads_AWAvenue
-HOST-SUFFIX,log.aliyuncs.com,Ads_AWAvenue
 HOST-SUFFIX,log.amemv.com,Ads_AWAvenue
 HOST-SUFFIX,log.appstore3.huan.tv,Ads_AWAvenue
 HOST-SUFFIX,log.avlyun.com,Ads_AWAvenue
@@ -515,17 +554,21 @@ HOST-SUFFIX,log1.cmpassport.com,Ads_AWAvenue
 HOST-SUFFIX,logbak.hicloud.com,Ads_AWAvenue
 HOST-SUFFIX,logrcv.aiclk.com,Ads_AWAvenue
 HOST-SUFFIX,logrcv.yunxish.com,Ads_AWAvenue
+HOST-SUFFIX,logs-bigdata.yeehaw.com.cn,Ads_AWAvenue
 HOST-SUFFIX,logs.amap.com,Ads_AWAvenue
 HOST-SUFFIX,logservice.hicloud.com,Ads_AWAvenue
 HOST-SUFFIX,logservice1.hicloud.com,Ads_AWAvenue
 HOST-SUFFIX,logtj.kugou.com,Ads_AWAvenue
 HOST-SUFFIX,logupdate.avlyun.sec.miui.com,Ads_AWAvenue
+HOST-SUFFIX,logv2.ireader.com,Ads_AWAvenue
 HOST-SUFFIX,logwebs.kugou.com,Ads_AWAvenue
+HOST-SUFFIX,lookup.api.bsb.baidu.com,Ads_AWAvenue
 HOST-SUFFIX,luimg.baidu.com,Ads_AWAvenue
 HOST-SUFFIX,m-adnet.hiaiabc.com,Ads_AWAvenue
 HOST-SUFFIX,m.ad.zhangyue.com,Ads_AWAvenue
 HOST-SUFFIX,m.atm.youku.com,Ads_AWAvenue
 HOST-SUFFIX,m.shenshiads.com,Ads_AWAvenue
+HOST-SUFFIX,m1.ad.10010.com,Ads_AWAvenue
 HOST-SUFFIX,mapi.m.jd.com,Ads_AWAvenue
 HOST-SUFFIX,masdkv6.3g.qq.com,Ads_AWAvenue
 HOST-SUFFIX,mazu.m.qq.com,Ads_AWAvenue
@@ -561,6 +604,7 @@ HOST-SUFFIX,monitor.music.qq.com,Ads_AWAvenue
 HOST-SUFFIX,monitor.uu.qq.com,Ads_AWAvenue
 HOST-SUFFIX,monsetting.toutiao.com,Ads_AWAvenue
 HOST-SUFFIX,mores.toponad.com,Ads_AWAvenue
+HOST-SUFFIX,mpcfg.fancydsp.com,Ads_AWAvenue
 HOST-SUFFIX,ms.applovin.com,Ads_AWAvenue
 HOST-SUFFIX,ms.applvn.com,Ads_AWAvenue
 HOST-SUFFIX,ms4.applovin.com,Ads_AWAvenue
@@ -622,6 +666,8 @@ HOST-SUFFIX,pcm-img.zhls.qq.com,Ads_AWAvenue
 HOST-SUFFIX,pgdt.gtimg.cn,Ads_AWAvenue
 HOST-SUFFIX,pgdt.ugdtimg.com,Ads_AWAvenue
 HOST-SUFFIX,pglstatp-toutiao.com,Ads_AWAvenue
+HOST-SUFFIX,pica-a-display.diwodiwo.xyz,Ads_AWAvenue
+HOST-SUFFIX,pica-ad-api.diwodiwo.xyz,Ads_AWAvenue
 HOST-SUFFIX,pig.pupuapi.com,Ads_AWAvenue
 HOST-SUFFIX,pin.hpplay.cn,Ads_AWAvenue
 HOST-SUFFIX,pixon.ads-pixiv.net,Ads_AWAvenue
@@ -632,6 +678,7 @@ HOST-SUFFIX,pms.mb.qq.com,Ads_AWAvenue
 HOST-SUFFIX,policy.video.ptqy.gitv.tv,Ads_AWAvenue
 HOST-SUFFIX,pos.baidu.com,Ads_AWAvenue
 HOST-SUFFIX,prod-mediate-events.applovin.com,Ads_AWAvenue
+HOST-SUFFIX,prom-sdkv2.jysper.net,Ads_AWAvenue
 HOST-SUFFIX,promotion-partner.kuaishou.com,Ads_AWAvenue
 HOST-SUFFIX,proxy.advp.apple.com,Ads_AWAvenue
 HOST-SUFFIX,public.gdtimg.com,Ads_AWAvenue
@@ -642,6 +689,8 @@ HOST-SUFFIX,qn-cdnfile1pcdn.msstatic.com,Ads_AWAvenue
 HOST-SUFFIX,qqdata.ab.qq.com,Ads_AWAvenue
 HOST-SUFFIX,qzs.gdtimg.com,Ads_AWAvenue
 HOST-SUFFIX,recommend-drcn.hms.dbankcloud.cn,Ads_AWAvenue
+HOST-SUFFIX,report.dxunion.cn,Ads_AWAvenue
+HOST-SUFFIX,report.tencentmusic.com,Ads_AWAvenue
 HOST-SUFFIX,report.tv.kohesport.qq.com,Ads_AWAvenue
 HOST-SUFFIX,res.hubcloud.com.cn,Ads_AWAvenue
 HOST-SUFFIX,res1.applovin.com,Ads_AWAvenue
@@ -665,23 +714,27 @@ HOST-SUFFIX,s1.cdn-sg.advlion.com,Ads_AWAvenue
 HOST-SUFFIX,s8t.teads.tv,Ads_AWAvenue
 HOST-SUFFIX,saad.ms.zhangyue.net,Ads_AWAvenue
 HOST-SUFFIX,saas.hpplay.cn,Ads_AWAvenue
-HOST-SUFFIX,safebrowsing.urlsec.gg.com,Ads_AWAvenue
+HOST-SUFFIX,safebrowsing.urlsec.qq.com,Ads_AWAvenue
 HOST-SUFFIX,samsung-com.112.2o7.net,Ads_AWAvenue
 HOST-SUFFIX,samsungads.com,Ads_AWAvenue
 HOST-SUFFIX,saxysec.com,Ads_AWAvenue
 HOST-SUFFIX,scs.openspeech.cn,Ads_AWAvenue
 HOST-SUFFIX,sdk-ab-config.qquanquan.com,Ads_AWAvenue
 HOST-SUFFIX,sdk-cache.video.ptqy.gitv.tv,Ads_AWAvenue
+HOST-SUFFIX,sdk-track.66mobi.com,Ads_AWAvenue
 HOST-SUFFIX,sdk.1rtb.net,Ads_AWAvenue
 HOST-SUFFIX,sdk.ad.smaato.net,Ads_AWAvenue
+HOST-SUFFIX,sdk.adhuanxiao.com,Ads_AWAvenue
 HOST-SUFFIX,sdk.adx.adwangmai.com,Ads_AWAvenue
 HOST-SUFFIX,sdk.aqyad.com,Ads_AWAvenue
 HOST-SUFFIX,sdk.beizi.biz,Ads_AWAvenue
 HOST-SUFFIX,sdk.cferw.com,Ads_AWAvenue
 HOST-SUFFIX,sdk.e.qq.com,Ads_AWAvenue
 HOST-SUFFIX,sdk.hzsanjiaomao.com,Ads_AWAvenue
+HOST-SUFFIX,sdk.hzzfcm.com,Ads_AWAvenue
 HOST-SUFFIX,sdk.markmedia.com.cn,Ads_AWAvenue
 HOST-SUFFIX,sdk.mobads.adwangmai.com,Ads_AWAvenue
+HOST-SUFFIX,sdk.zhangyuyidong.cn,Ads_AWAvenue
 HOST-SUFFIX,sdkapi.cloooud.com,Ads_AWAvenue
 HOST-SUFFIX,sdkapp.uve.weibo.com,Ads_AWAvenue
 HOST-SUFFIX,sdkauth.hpplay.cn,Ads_AWAvenue
@@ -690,6 +743,7 @@ HOST-SUFFIX,sdkconfig.ad.intl.xiaomi.com,Ads_AWAvenue
 HOST-SUFFIX,sdkconfig.ad.xiaomi.com,Ads_AWAvenue
 HOST-SUFFIX,sdkconfig.play.aiseet.atianqi.com,Ads_AWAvenue
 HOST-SUFFIX,sdkconfig.video.qq.com,Ads_AWAvenue
+HOST-SUFFIX,sdklog.zhangyuyidong.cn,Ads_AWAvenue
 HOST-SUFFIX,sdkoptedge.chinanetcenter.com,Ads_AWAvenue
 HOST-SUFFIX,sdkreport.e.qq.com,Ads_AWAvenue
 HOST-SUFFIX,sdktmp.hubcloud.com.cn,Ads_AWAvenue
@@ -791,8 +845,10 @@ HOST-SUFFIX,tracelog-debug.qquanquan.com,Ads_AWAvenue
 HOST-SUFFIX,tracelog-debug.yunxish.com,Ads_AWAvenue
 HOST-SUFFIX,track.lc.quark.cn,Ads_AWAvenue
 HOST-SUFFIX,track.uc.cn,Ads_AWAvenue
+HOST-SUFFIX,tracker-prd.aldi.com.cn,Ads_AWAvenue
 HOST-SUFFIX,tracker.ai.xiaomi.com,Ads_AWAvenue
 HOST-SUFFIX,tracker.gitee.com,Ads_AWAvenue
+HOST-SUFFIX,tracking-adnet.vivo.com.cn,Ads_AWAvenue
 HOST-SUFFIX,tracking.miui.com,Ads_AWAvenue
 HOST-SUFFIX,tracking.rus.miui.com,Ads_AWAvenue
 HOST-SUFFIX,tuiguang.meitu.com,Ads_AWAvenue
@@ -818,8 +874,10 @@ HOST-SUFFIX,umengacs.m.taobao.com,Ads_AWAvenue
 HOST-SUFFIX,umengjmacs.m.taobao.com,Ads_AWAvenue
 HOST-SUFFIX,umini.shujupie.com,Ads_AWAvenue
 HOST-SUFFIX,union-mlog.bigda.com,Ads_AWAvenue
+HOST-SUFFIX,union-record.oss-cn-zhangjiakou.aliyuncs.com,Ads_AWAvenue
 HOST-SUFFIX,union.baidu.cn,Ads_AWAvenue
 HOST-SUFFIX,union.baidu.com,Ads_AWAvenue
+HOST-SUFFIX,unityads.unity3d.com,Ads_AWAvenue
 HOST-SUFFIX,update.avlyun.sec.miui.com,Ads_AWAvenue
 HOST-SUFFIX,update.lejiao.tv,Ads_AWAvenue
 HOST-SUFFIX,update0.aiclk.com,Ads_AWAvenue
@@ -869,6 +927,7 @@ HOST-SUFFIX,win.gdt.qq.com,Ads_AWAvenue
 HOST-SUFFIX,wn.x.jd.com,Ads_AWAvenue
 HOST-SUFFIX,ws-keyboard.shouji.sogou.com,Ads_AWAvenue
 HOST-SUFFIX,ws.sj.qq.com,Ads_AWAvenue
+HOST-SUFFIX,ws.tapjoyads.com,Ads_AWAvenue
 HOST-SUFFIX,wv.inner-active.mobi,Ads_AWAvenue
 HOST-SUFFIX,wwads.cn,Ads_AWAvenue
 HOST-SUFFIX,wxa.wxs.qq.com,Ads_AWAvenue
@@ -879,6 +938,7 @@ HOST-SUFFIX,wxsnsad.tc.qq.com,Ads_AWAvenue
 HOST-SUFFIX,wxsnsdy.tc.qq.com,Ads_AWAvenue
 HOST-SUFFIX,wxsnsdy.wxs.qq.com,Ads_AWAvenue
 HOST-SUFFIX,wxsnsdythumb.wxs.qq.com,Ads_AWAvenue
+HOST-SUFFIX,xadsmartget.adgain.cn,Ads_AWAvenue
 HOST-SUFFIX,xc.gdt.qq.com,Ads_AWAvenue
 HOST-SUFFIX,xcx.dcad01.com,Ads_AWAvenue
 HOST-SUFFIX,xiaomi-dtv.m.cn.miaozhen.com,Ads_AWAvenue
@@ -893,6 +953,7 @@ HOST-SUFFIX,ykad-data.cp31.ott.cibntv.net,Ads_AWAvenue
 HOST-SUFFIX,ykad-data.youku.com,Ads_AWAvenue
 HOST-SUFFIX,ykad-gateway.youku.com,Ads_AWAvenue
 HOST-SUFFIX,ytx-file.110route.cn,Ads_AWAvenue
+HOST-SUFFIX,yumao.puata.info,Ads_AWAvenue
 HOST-SUFFIX,zeus.ad.xiaomi.com,Ads_AWAvenue
 HOST-SUFFIX,zhangyuyidong.cn,Ads_AWAvenue
 HOST-SUFFIX,zhihu-web-analytics.zhihu.com,Ads_AWAvenue
